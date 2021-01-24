@@ -1,0 +1,17 @@
+import time as t
+
+t.sleep(1)
+print('               BOOTING')
+t.sleep(2)
+print('[=                                       ')
+print('[===                                   ')
+t.sleep(1)
+print('[======                             ')
+t.sleep(1)
+print('[==========                     ')
+t.sleep(1)
+print('[===============          ')
+t.sleep(1)
+print('[===================] ')
+t.sleep(1)
+print('BOOT COMPLETED SUCCESFULLY')
